@@ -26,7 +26,7 @@ int main(void) {
 	int choice;
 	while(1) {
 		ShowMenu();
-		cout<<"선택: ";
+		cout<<"선택(초이스): ";
 		cin>>choice;
 		cout<<endl;
 		switch(choice) {
